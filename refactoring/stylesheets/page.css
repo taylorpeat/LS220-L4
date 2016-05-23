@@ -80,3 +80,11 @@ form p.error {
 #birthstone {
   font: italic bold 16px Georgia, serif;
 }
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
